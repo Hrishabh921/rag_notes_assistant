@@ -1,0 +1,6 @@
+streamlit>=1.55
+google-genai
+faiss-cpu
+pypdf
+numpy
+python-dotenv
